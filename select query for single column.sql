@@ -1,0 +1,1 @@
+SELECT e_name FROM employee;
