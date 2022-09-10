@@ -1,0 +1,1 @@
+SELECT e_id,e_name,e_salary,e_gender,e_dept FROM employee;
